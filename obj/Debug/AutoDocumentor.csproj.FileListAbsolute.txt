@@ -1,0 +1,11 @@
+C:\Users\shays\source\repos\AutoDocumentor\bin\Debug\AutoDocumentor.exe.config
+C:\Users\shays\source\repos\AutoDocumentor\bin\Debug\AutoDocumentor.exe
+C:\Users\shays\source\repos\AutoDocumentor\bin\Debug\AutoDocumentor.pdb
+C:\Users\shays\source\repos\AutoDocumentor\obj\Debug\AutoDocumentor.csproj.AssemblyReference.cache
+C:\Users\shays\source\repos\AutoDocumentor\obj\Debug\AutoDocumentor.csproj.SuggestedBindingRedirects.cache
+C:\Users\shays\source\repos\AutoDocumentor\obj\Debug\AutoDocumentor.csproj.CoreCompileInputs.cache
+C:\Users\shays\source\repos\AutoDocumentor\obj\Debug\AutoDocumentor.exe
+C:\Users\shays\source\repos\AutoDocumentor\obj\Debug\AutoDocumentor.pdb
+C:\Users\shays\source\repos\AutoDocumentor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shays\source\repos\AutoDocumentor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shays\source\repos\AutoDocumentor\obj\Debug\AutoDocumentor.csproj.CopyComplete
